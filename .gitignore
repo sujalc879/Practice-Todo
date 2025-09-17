@@ -6,8 +6,8 @@ npm-debug.log*
 # Dependency directories
 node_modules/
 
-# Environment files
-.env
+# ignore all .env files recursively
+*.env
 
 # OS files
 .DS_Store
